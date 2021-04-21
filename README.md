@@ -1,4 +1,4 @@
-<img align="right" width="30%" src="https://user-images.githubusercontent.com/56116708/115572596-aedb1e80-a2dd-11eb-9106-7ce1da84a0e2.png" alt="lang image here" />
+<img align="right" width="40%" src="https://user-images.githubusercontent.com/56116708/115572596-aedb1e80-a2dd-11eb-9106-7ce1da84a0e2.png" alt="lang image here" />
 <p align="left"><img width="40%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" />
   
  </p>
