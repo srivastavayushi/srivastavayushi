@@ -1,5 +1,8 @@
-# Hi, you have reached ayushi's git!
-
+<img  align="right" width="30%" src="https://user-images.githubusercontent.com/56116708/115578796-370ff280-a2e3-11eb-9634-5f13018dc9aa.gif" alt="lang image here" />
+<p align="left"><img width="40%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" />
+  <img  width="10%" src="https://user-images.githubusercontent.com/56116708/115572596-aedb1e80-a2dd-11eb-9106-7ce1da84a0e2.png" alt="lang image here" />
+ </p>
+ 
 <span align="left">
   <ul>
     <li>:smiling_imp: Currently working on web development technologies ReactJs and Nodejs</li>
@@ -11,12 +14,10 @@
     </ul> 
   </span>
 
-<div align="left"> This gif shows my one year experience with React Js, Node, MongoDB and Express </div>
-
   ![giphy](https://user-images.githubusercontent.com/56116708/115560247-06738d00-a2d2-11eb-84b3-9e34ca754c9c.gif) 
-<p align="left">
-  <img src="https://media.giphy.com/media/5Zesu5VPNGJlm/source.gif" alt="animated" />
-</p>
+
 
 
 - 📫 How to reach me: ...
+
+
