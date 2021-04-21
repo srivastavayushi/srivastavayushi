@@ -12,19 +12,10 @@
     <li> 📫 How to reach me: ayushi.srivastava18@student.amity.edu</li>
      <li>⚡ Fun fact: Email existed before World Wide Web</li>
     </ul> 
-<br/>
+
   </span>
 <img align="left" width="40%" src="https://user-images.githubusercontent.com/56116708/115560247-06738d00-a2d2-11eb-84b3-9e34ca754c9c.gif" alt="lang image here" />
-
- <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
+<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=srivastavayushi&show_icons=true&theme=tokyonight" />
 
 
 ### :coffee: Languages : 
@@ -46,11 +37,10 @@
 ![Material-UI](https://img.shields.io/badge/-Material%E2%80%93UI-0081CB?style=flat-square&logo=material-ui)
 ![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=ffffff)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-squar&logo=styled-components&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=flat-square&express&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![MongoDB](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
 ### 🛠 Tools and Technologies:
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
@@ -69,14 +59,6 @@
 [<img align="left" alt="_ayyuuuu_ | Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 
 
-<br />
-<br />
-<br />
-<br />
-
-<div align="right">
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=srivastavayushi&show_icons=true&theme=tokyonight" />
-</div>
 
 
 [twitter]: https://twitter.com/AyushiS38583735
