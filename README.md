@@ -12,9 +12,10 @@
     <li> 📫 How to reach me: ayushi.srivastava18@student.amity.edu</li>
      <li>⚡ Fun fact: Email existed before World Wide Web</li>
     </ul> 
-
   </span>
-<a href="https://github.com/kaustuvkaran01"><img align="left" width="40%" src="https://user-images.githubusercontent.com/56116708/115560247-06738d00-a2d2-11eb-84b3-9e34ca754c9c.gif" alt="lang image here" /></a>
+<a href="https://github.com/kaustuvkaran01">
+ <img align="left" width="40%" src="https://user-images.githubusercontent.com/56116708/115560247-06738d00-a2d2-11eb-84b3-9e34ca754c9c.gif" alt="lang image here" />
+</a>
 <br/>
 <br/>
 <br/>
@@ -25,12 +26,8 @@
 <br/>
 <br/>
 <br/>
- <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=srivastavayushi&show_icons=true&theme=tokyonight" />
-
-
-
-
-### :coffee: Languages : 
+<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=srivastavayushi&show_icons=true&theme=tokyonight" />
+### :coffee: Languages 
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
@@ -41,7 +38,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
 
-### :fire: Frameworks/Libraries:
+### :fire: Frameworks/Libraries
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
@@ -54,7 +51,7 @@
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-### 🛠 Tools and Technologies:
+### 🛠 Tools and Technologies
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
@@ -63,7 +60,7 @@
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 
-### 📝 Let's connect:
+### 📝 Let's connect
 
 [<img align="left" alt="ayushimanoj1201 | Medium" width="40px" src="https://img.icons8.com/nolan/50/medium-new.png" />][medium]
 [<img align="left" alt="AyushiS38583735 | Twitter" width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
