@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<span> I'm Ayushi currently a Second Year CSE student at @Amity 🏫 and aspiring software developer💻. Interested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology. Occasionaly I do participate in Hackathons 💡 and I have a love/hate relationship with Programming 😐 </span>
+
+![demo](https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif)
 <!--
 **srivastavayushi/srivastavayushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
