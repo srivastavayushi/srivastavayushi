@@ -12,13 +12,14 @@
     <li> 📫 How to reach me: ayushi.srivastava18@student.amity.edu</li>
      <li>⚡ Fun fact: Email existed before World Wide Web</li>
     </ul> 
+<br/>
+---
   </span>
-
 
 
   ![giphy](https://user-images.githubusercontent.com/56116708/115560247-06738d00-a2d2-11eb-84b3-9e34ca754c9c.gif) 
   
----
+
 
 ### :coffee: Languages : 
 
