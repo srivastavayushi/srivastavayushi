@@ -22,24 +22,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-<!-- [![Ayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=srivastavayushi&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavayushi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
-![Metrics](https://metrics.lecoq.io/srivastavayushi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FCalcutta)
- -->
-<!-- <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=srivastavayushi&show_icons=true&theme=tokyonight" /> -->
-<!-- 
-![Metrics](https://metrics.lecoq.io/srivastavayushi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&repositories=1&activity=1&isocalendar=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=true&config.timezone=Asia%2FCalcutta) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srivastavayushi&repo=EdiQL&show_icons=true&theme=radical)](https://github.com/srivastavayushi/EdiQL)
 
 
 ### :coffee: Languages 
