@@ -1,32 +1,37 @@
-<img align="right" width="40%" src="https://user-images.githubusercontent.com/56116708/115572596-aedb1e80-a2dd-11eb-9106-7ce1da84a0e2.png" alt="lang image here" />
-<p align="left"><img width="40%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" />
- </p>
+## Hi there 👋
+My name is [Ayushi Srivastava](https://www.ayushi.live). I'm a full stack web developer with special inclination towards React and its frameworks. My interest in dev started back in 2020 when I decided to participate in hackathons - **turns out hacking that summer taught me a lot about HTML & CSS.** I am good with animations and creative processes that make the journey a lot more fun.
+
+<img align="right" width="30%" src="https://user-images.githubusercontent.com/56116708/115572596-aedb1e80-a2dd-11eb-9106-7ce1da84a0e2.png" alt="lang image here" />
  
-<span align="left">
-  <ul>
-    <li>:smiling_imp: Currently working on Nodejs</li>
-     <li>🌱 I’m currently learning Redux</li>
-     <li>👯 I’m looking to collaborate on MERN Stack Projects</li>
-     <li>🤔 I’m looking for help with Socket.io</li>
-     <li>💬 Ask me about Lottie Animations</li>
-    <li> 📫 How to reach me: ayushi.srivastava18@student.amity.edu</li>
-     <li>⚡ Fun fact: Email existed before World Wide Web</li>
-    </ul> 
-  </span>
-<a href="https://github.com/kaustuvkaran01">
- <img align="left" width="40%" src="https://user-images.githubusercontent.com/56116708/115560247-06738d00-a2d2-11eb-84b3-9e34ca754c9c.gif" alt="lang image here" />
+## More about me:
+- 🔭 I’m currently working as ... [Samsung Research Institute Bangalore](https://research.samsung.com/sri-b) as PRISM Developer
+- 🌱 I’m currently learning ... Next.js
+- 👯 I’m looking to collaborate on ... Anything :)
+- 🤔 I’m looking for help with ... Socket.io
+- 💬 Ask me about ... React ! 
+- 📫 How to reach me: ... ayushimanoj1201@gmail.com
+- 😄 Pronouns: ... She/Her
+- ⚡ Fun fact: ... Email existed before World Wide Web :)
+
+## My Work
+I have experience with Frontend technologies, like React, NextJS. Although I also have some experience with Node.js and Express, mostly I work with frontend technologies only. Recently, I have also started going through computer fundamentals like computer networks, database management and operating system. Would love your advice on how to practice data structures and algorithms efficiently !
+
+<!-- [![Ayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=srivastavayushi&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavayushi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=srivastavayushi&show_icons=true&theme=tokyonight" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+![Metrics](https://metrics.lecoq.io/srivastavayushi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FCalcutta)
+ -->
+<!-- <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=srivastavayushi&show_icons=true&theme=tokyonight" /> -->
 
 ### :coffee: Languages 
 
@@ -66,8 +71,6 @@
 [<img align="left" alt="AyushiS38583735 | Twitter" width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="srivayushi | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="_ayyuuuu_ | Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
-
-
 
 
 [twitter]: https://twitter.com/AyushiS38583735
