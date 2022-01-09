@@ -17,6 +17,9 @@ My name is [Ayushi Srivastava](https://www.ayushi.live). I'm a full stack web de
 I have experience with Frontend technologies, like React, NextJS. Although I also have some experience with Node.js and Express, mostly I work with frontend technologies only. Recently, I have also started going through computer fundamentals like computer networks, database management and operating system. Would love your advice on how to practice data structures and algorithms efficiently !
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <!-- [![Ayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=srivastavayushi&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
