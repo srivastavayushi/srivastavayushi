@@ -33,6 +33,7 @@ I have experience with Frontend technologies, like React, NextJS. Although I als
  -->
 <!-- <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=srivastavayushi&show_icons=true&theme=tokyonight" /> -->
 
+![Metrics](https://metrics.lecoq.io/srivastavayushi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&repositories=1&activity=1&isocalendar=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=true&config.timezone=Asia%2FCalcutta)
 ### :coffee: Languages 
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
