@@ -18,10 +18,10 @@ I have experience with Frontend technologies, like React, NextJS. Although I als
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 January, 2022 - 14 January, 2022
+Week: 09 January, 2022 - 15 January, 2022
 
-Markdown     4 hrs 1 min     ██████████████████████▓░░   90.75 % 
-C++          24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Markdown     4 hrs 25 mins   █████████████████████▓░░░   86.48 % 
+C++          41 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 % 
 ```
 <!--END_SECTION:waka-->
 
