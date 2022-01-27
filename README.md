@@ -18,7 +18,7 @@ I have experience with Frontend technologies, like React, NextJS. Although I als
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 January, 2022 - 25 January, 2022
+Week: 20 January, 2022 - 26 January, 2022
 
 JavaScript   6 hrs 30 mins   ████████████████████▓░░░░   83.27 % 
 Markdown     1 hr 4 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 % 
