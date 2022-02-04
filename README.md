@@ -18,13 +18,13 @@ I have experience with Frontend technologies, like React, NextJS. Although I als
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 January, 2022 - 02 February, 2022
+Week: 28 January, 2022 - 03 February, 2022
 
-JavaScript   2 hrs 54 mins   ████████████████▒░░░░░░░░   65.08 % 
-JSON         32 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-XML          23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-CSS          23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-TOML         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+JavaScript   53 mins         █████████▓░░░░░░░░░░░░░░░   38.08 % 
+JSON         28 mins         █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+CSS          23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Markdown     20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+TOML         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 ```
 <!--END_SECTION:waka-->
 
