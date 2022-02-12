@@ -18,10 +18,7 @@ I have experience with Frontend technologies, like React, NextJS. Although I als
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 February, 2022 - 10 February, 2022
-
-JavaScript   1 hr 25 mins    ██████████████████▒░░░░░░   73.06 % 
-CSS          30 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.19 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
