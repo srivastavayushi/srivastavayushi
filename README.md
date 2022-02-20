@@ -18,9 +18,7 @@ I have experience with Frontend technologies, like React, NextJS. Although I als
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2022 - 18 February, 2022
-
-Total: 0 secs
+Week: 13 February, 2022 - 19 February, 2022
 
 
 ```
