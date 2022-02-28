@@ -17,13 +17,15 @@ My name is [Ayushi Srivastava](https://www.ayushi.live). I'm a full stack web de
 I have experience with Frontend technologies, like React, NextJS. Although I also have some experience with Node.js and Express, mostly I work with frontend technologies only. Recently, I have also started going through computer fundamentals like computer networks, database management and operating system. Would love your advice on how to practice data structures and algorithms efficiently !
 
 <!--START_SECTION:waka-->
-```text
-From: 17 February, 2022 - To: 24 February, 2022
 
-JavaScript   27 mins         ███████████████████░░░░░░   76.66 % 
-CSS          4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-JSON         3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+JavaScript   4 hrs 16 mins   ████████████████████████▒   96.85 %
+CSS          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ```
+
 <!--END_SECTION:waka-->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srivastavayushi&repo=EdiQL&show_icons=true&theme=radical)](https://github.com/srivastavayushi/EdiQL)
