@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is [Ayushi Srivastava](https://www.ayushi.live). I'm a full stack web developer with special inclination towards React and its frameworks. My interest in dev started back in 2020 when I decided to participate in hackathons - **turns out hacking that summer taught me a lot about HTML & CSS.** I am good with animations and creative processes that make the journey a lot more fun.
+My name is [Ayushi Srivastava](https://github.com/srivastavayushi). I'm a full stack web developer with special inclination towards React and its frameworks. My interest in dev started back in 2020 when I decided to participate in hackathons - **turns out hacking that summer taught me a lot about HTML & CSS.** I am good with animations and creative processes that make the journey a lot more fun.
 
 <img align="right" width="30%" src="https://user-images.githubusercontent.com/56116708/115572596-aedb1e80-a2dd-11eb-9106-7ce1da84a0e2.png" alt="lang image here" />
  
