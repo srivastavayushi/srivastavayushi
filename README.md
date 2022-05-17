@@ -19,12 +19,11 @@ I have experience with Frontend technologies, like React, NextJS. Although I als
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 May 2022 - To: 15 May 2022
+From: 09 May 2022 - To: 16 May 2022
 
-JavaScript   1 hr 14 mins    ███████████████████████░░   92.66 %
-JSON         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-CSS          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+JavaScript   1 hr 1 min      ███████████████████████▓░   94.75 %
+JSON         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
