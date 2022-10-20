@@ -19,7 +19,10 @@ I have experience with Frontend technologies, like React, NextJS. Although I als
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 12 October 2022 - To: 19 October 2022
+
+JavaScript   1 hr 4 mins     ████████████████████████▓   98.80 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
