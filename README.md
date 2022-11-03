@@ -19,7 +19,7 @@ I have experience with Frontend technologies, like React, NextJS. Although I als
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 October 2022 - To: 01 November 2022
+From: 26 October 2022 - To: 02 November 2022
 
 JavaScript   1 hr 39 mins    ██████████████████████▒░░   88.69 %
 CSS          11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
