@@ -33,7 +33,7 @@ Other        2 mins          █░░░░░░░░░░░░░░░░
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srivastavayushi&repo=Expense-Tracker&show_icons=true&theme=radical)](https://github.com/srivastavayushi/Expense-Tracker) -->
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=srivastavayushi&theme=react-dark)](https://github.com/srivastavayushi/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=srivastavayushi&theme=react-dark)](https://github.com/srivastavayushi/github-readme-activity-graph) -->
 
 ### :coffee: Languages 
 
