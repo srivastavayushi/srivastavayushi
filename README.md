@@ -4,7 +4,7 @@ My name is [Ayushi Srivastava](https://github.com/srivastavayushi). I'm a full s
 <img align="right" width="30%" src="https://user-images.githubusercontent.com/56116708/115572596-aedb1e80-a2dd-11eb-9106-7ce1da84a0e2.png" alt="lang image here" />
  
 ## More about me:
-- 🔭 I’m currently working as ... [Samsung Research Institute Bangalore](https://research.samsung.com/sri-b) as PRISM Developer
+- 🔭 I have previously worked as ... [Samsung Research Institute Bangalore](https://research.samsung.com/sri-b) as PRISM Developer and SDE Intern @Amazon
 - 🌱 I’m currently learning ... Next.js
 - 👯 I’m looking to collaborate on ... Anything :)
 - 🤔 I’m looking for help with ... Socket.io
